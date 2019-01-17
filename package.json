@@ -22,10 +22,13 @@
   "dependencies": {
     "@nestjs/common": "^5.4.0",
     "@nestjs/core": "^5.4.0",
+    "class": "^0.1.4",
+    "class-validator": "^0.9.1",
     "reflect-metadata": "^0.1.12",
     "rimraf": "^2.6.2",
     "rxjs": "^6.2.2",
-    "typescript": "^3.0.1"
+    "typescript": "^3.0.1",
+    "validator": "^10.11.0"
   },
   "devDependencies": {
     "@nestjs/testing": "^5.1.0",
